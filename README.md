@@ -1,4 +1,4 @@
-[Power BI Inventory & Stock Level Dashoboard](https://app.powerbi.com/view?r=eyJrIjoiNmM2OWY4ZTgtNjViOS00MjQ4LWE2ZDgtYzA0MjUxYWFhNWJmIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
+[Power BI Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM2OWY4ZTgtNjViOS00MjQ4LWE2ZDgtYzA0MjUxYWFhNWJmIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
 
 # Power BI Sales Dashboard  
 
